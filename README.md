@@ -1,2 +1,7 @@
-# selenium
-stepik
+## Selenium
+
+Учебные задания на платформе ***Stepik***.
+***
+*requirements.txt* - список зависимостей
+
+*drivers* - папка с драйверами браузеров
